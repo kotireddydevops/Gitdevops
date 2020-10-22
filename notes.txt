@@ -1,0 +1,6 @@
+DevOps is an increasingly common approach to agile software development that developers and operations teams use to build, test, deploy and monitor applications with speed, quality and control.
+
+DevOps is relevant to any kind of software project regardless of architecture, platform or purpose. Common use cases include: cloud-native and mobile applications, application integration, and modernization and multicloud management.
+
+Successful DevOps implementations generally rely on an integrated set of solutions or a "toolchain" to remove manual steps, reduce errors, increase team agility, and to scale beyond small, isolated teams. Learn more about our solutions such as release automation, service virtualization and application performance management.
+
